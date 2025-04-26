@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "controller": "*",
-        "sprite-scaling": "*"
+        "sprite-scaling": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",

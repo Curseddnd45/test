@@ -16,4 +16,4 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . c 1 b c . 
     . . . . . . . . . . . . c c . . 
     `, SpriteKind.Player)
-scaling.scaleByPixels(mySprite, 10, ScaleDirection.Horizontally, ScaleAnchor.Middle)
+scaling.scaleByPixels(mySprite, 100, ScaleDirection.Uniformly, ScaleAnchor.Middle, true)
