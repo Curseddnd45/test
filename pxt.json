@@ -5,7 +5,9 @@
         "device": "*",
         "controller": "*",
         "sprite-scaling": "*",
-        "multiplayer": "*"
+        "multiplayer": "*",
+        "corgio": "*",
+        "browser-events": "*"
     },
     "files": [
         "main.blocks",
